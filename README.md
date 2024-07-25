@@ -4,7 +4,12 @@
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
-- [Mawforged] (https://axiosys.net)
+- [Mawforged] (https://github.com/SteveMorris93/Mawforged)
+
+<h2>👩‍🏭 My Work</h2>
+
+- Weapon Shaping Mini Game
+- Main Menu Design
 
 <h2>📜 Certifications:</h2>
 
