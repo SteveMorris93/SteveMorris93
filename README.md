@@ -8,7 +8,7 @@
 
 <h2>👩‍🏭 My Work</h2>
 
-- Weapon Shaping Mini Game
+- Weapon Shaping Mini Game (https://github.com/SteveMorris93/WeaponShapingMiniGame)
 - Main Menu Design
 
 <h2>📜 Certifications:</h2>
