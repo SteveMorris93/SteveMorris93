@@ -2,7 +2,15 @@
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
-[Mawforged] (https://axiosys.net)
+- [Mawforged] (https://axiosys.net)
+
+<h2>📜 Certifications:</h2>
+
+- Digital Skills: Succeeding in a digital world [Digital Skills Certificate.pdf](https://github.com/user-attachments/files/16377162/Digital.Skills.Certificate.pdf)
+- Gamified Intelligent Cyber Aptitude and Skills Training (GICAST) [GICAST Certificate.pdf](https://github.com/user-attachments/files/16377178/GICAST.Certificate.pdf)
+- CompTIA A+ (Core 1) [CompTIA A+ (Core 1) Certificate.pdf](https://github.com/user-attachments/files/16377216/CompTIA.A%2B.Core.1.Certificate.pdf)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -11,4 +19,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: (https://www.linkedin.com/in/steven-morris-3761222a0/)
